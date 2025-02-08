@@ -2,13 +2,21 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
 <p align="left">My name is Gabriel Melo, i am a computer science student and an indie full-stack developer from Brazil.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Java</p>
 
 ###
 
-<h2 align="left">🛠 Languages and Tools</h2>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GBMeloRibeiro.GBMeloRibeiro&"  />
+</div>
 
 ###
+
+<h2 align="left">🛠 Languages & Tools</h2>
 
 ###
 
@@ -73,6 +81,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
+
+###
+
+<h2 align="left">📊Stats & Contributions</h2>
 
 ###
 
