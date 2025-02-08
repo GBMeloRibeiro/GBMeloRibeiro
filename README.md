@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">My name is Gabriel Melo, i am a computer science student and an indie full-stack developer from Brazil.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Java</p>
 
 ###
