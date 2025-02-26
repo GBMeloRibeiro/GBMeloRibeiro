@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel Melo, i am a computer science student and an indie & freelancer full-stack developer from Brazil.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Java</p>
+<p align="left">My name is Gabriel Melo, i am a Software Engineer, computer science student and full-stack developer from Brazil.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning Java</p>
 
 ###
 
